@@ -1,0 +1,1 @@
+if (window.postMessage) {window['postMessage']("kh_addcuriyo:v=2.3.0.315&smartpicsdelay=500&scrollbutton=true&showMaximize=true&openMethod=popuptp&cblogocs=1&poweredByLogo=//_CDN_/img/cb//poweredby1.png&ext=true", "*");}
